@@ -1,7 +1,7 @@
 daction
 =======
 
-Performs custom action to all/specified elements in a directory.
+Performs custom action in all/specified directories by pattern.
 
 Examples:
 -------
