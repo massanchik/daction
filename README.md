@@ -3,6 +3,10 @@ daction
 
 Performs custom action in all/specified directories by pattern.
 
+Install:
+--------
+    pip install daction
+
 Examples:
 -------
 
